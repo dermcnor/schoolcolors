@@ -13,7 +13,8 @@ Authors@R:
            )
 Suggests:
     dplyr,
-    rvest
+    rvest,
+    covr
 Description: What the package does (one paragraph).
 License: MIT + file LICENSE
 Encoding: UTF-8
