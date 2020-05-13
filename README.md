@@ -7,10 +7,6 @@
 
 [![CRAN
 status](https://www.r-pkg.org/badges/version/schoolcolors)](https://CRAN.R-project.org/package=schoolcolors)
-[![Codecov test
-coverage](https://codecov.io/gh/dermcnor/schoolcolors/branch/master/graph/badge.svg)](https://codecov.io/gh/dermcnor/schoolcolors?branch=master)
-[![R build
-status](https://github.com/dermcnor/schoolcolors/workflows/R-CMD-check/badge.svg)](https://github.com/dermcnor/schoolcolors/actions)
 <!-- badges: end -->
 
 The goal of schoolcolors is to provide palettes for all possible NCAA
