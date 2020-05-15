@@ -5,7 +5,7 @@
 \alias{school_palettes}
 \title{Complete List of School Palettes}
 \format{
-An object of class \code{list} of length 1159.
+An object of class \code{list} of length 1158.
 }
 \usage{
 school_palettes
