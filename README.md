@@ -11,6 +11,8 @@ status](https://www.r-pkg.org/badges/version/schoolcolors)](https://CRAN.R-proje
 status](https://github.com/dermcnor/schoolcolors/workflows/pkgdown/badge.svg)](https://github.com/dermcnor/schoolcolors/actions)
 <!-- badges: end -->
 
+[![](https://sourcerer.io/fame/cbenge509/dermcnor/schoolcolors/images/0)](https://sourcerer.io/fame/cbenge509/dermcnor/schoolcolors/links/0)[![](https://sourcerer.io/fame/cbenge509/dermcnor/schoolcolors/images/1)](https://sourcerer.io/fame/cbenge509/dermcnor/schoolcolors/links/1)[![](https://sourcerer.io/fame/cbenge509/dermcnor/schoolcolors/images/2)](https://sourcerer.io/fame/cbenge509/dermcnor/schoolcolors/links/2)[![](https://sourcerer.io/fame/cbenge509/dermcnor/schoolcolors/images/3)](https://sourcerer.io/fame/cbenge509/dermcnor/schoolcolors/links/3)[![](https://sourcerer.io/fame/cbenge509/dermcnor/schoolcolors/images/4)](https://sourcerer.io/fame/cbenge509/dermcnor/schoolcolors/links/4)[![](https://sourcerer.io/fame/cbenge509/dermcnor/schoolcolors/images/5)](https://sourcerer.io/fame/cbenge509/dermcnor/schoolcolors/links/5)[![](https://sourcerer.io/fame/cbenge509/dermcnor/schoolcolors/images/6)](https://sourcerer.io/fame/cbenge509/dermcnor/schoolcolors/links/6)[![](https://sourcerer.io/fame/cbenge509/dermcnor/schoolcolors/images/7)](https://sourcerer.io/fame/cbenge509/dermcnor/schoolcolors/links/7)
+
 The goal of schoolcolors is to provide palettes for all possible NCAA
 schools. It is built very heavily upon the structure laid out in the
 [wesanderson](https://github.com/karthik/wesanderson) package.
